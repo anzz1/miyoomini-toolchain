@@ -23,3 +23,5 @@ else
 fi
 tar xf "./$TOOLCHAIN_TAR"
 rm -rf "./$TOOLCHAIN_TAR"
+
+git config --system --add safe.directory '*'
