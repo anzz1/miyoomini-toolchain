@@ -4,3 +4,4 @@ export PREFIX=/opt/miyoomini-toolchain/usr/arm-linux-gnueabihf/sysroot/usr
 export SYSROOT=/opt/miyoomini-toolchain/arm-linux-gnueabihf/sysroot
 export UNION_PLATFORM=miyoomini
 source ~/xldd.sh
+source ~/xcross.sh
